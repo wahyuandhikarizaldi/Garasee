@@ -1,5 +1,5 @@
 # Garasee - Get the right price for the best car!
-Our app, Garasee, is here to help users find reasonable prices for used cars quickly. This application aims to make the process of buying and selling used cars simpler and more reliable, by providing more accurate and transparent pricing. 
+Garasee, is here to help users find reasonable prices for used cars quickly. This application aims to make the process of buying and selling used cars simpler and more reliable, by providing more accurate and transparent pricing. 
 
 ## Features
 
